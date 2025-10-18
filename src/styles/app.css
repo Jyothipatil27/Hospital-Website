@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f8fb;
+  margin: 0;
+ 
+  width: 100vw;
+  height: 100vh;
+}
+.main-content {
+  min-height: 80vh;
+  background-image: url(https://cdn.britannica.com/12/130512-004-AD0A7CA4/campus-Riverside-Ottawa-The-Hospital-Ont.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+ 
+}
+.footer {
+  background-color: #0066cc;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
